@@ -1,0 +1,14 @@
+add > 1 (-1.1e11, 0) (0, 0) 1
+add Target 1.0e30 (0, 0) (0, 0) 1.0e10
+add obstacle1 1 (5.0e10, 0) (0,-36500) 1.0e10
+add obstacle2 1 (-5.0e10, 0) (0,36500) 1.0e10
+add obstacle3 1 (0, 5.0e10) (36500,0) 1.0e10
+add obstacle4 1 (0, -5.0e10) (-36500,0) 1.0e10
+add obstacle5 1 (1.0e11, 0) (0,-36500) 1.0e10
+add obstacle6 1 (-1.0e11, 0) (0,36500) 1.0e10
+add obstacle7 1 (0, 1.0e11) (36500,0) 1.0e10
+add obstacle8 1 (0, -1.0e11) (-36500,0) 1.0e10
+add obstacle9 1 (5.0e11, 0) (0,-36500) 1.0e10
+add obstacle10 1 (-5.0e11, 0) (0,36500) 1.0e10
+add obstacle11 1 (0, 5.0e11) (36500,0) 1.0e10
+add obstacle12 1 (0, -5.0e11) (-36500,0) 1.0e10
